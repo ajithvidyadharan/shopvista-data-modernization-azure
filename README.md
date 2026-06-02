@@ -269,13 +269,7 @@ Through this project, I gained hands-on experience in:
 
 ## 📸 Architecture Diagram
 
-Add your architecture diagram image to the repository and reference it here:
-
-```markdown
-![Architecture Diagram](architecture/shopvista-architecture.png)
-```
-
----
+https://github.com/ajithvidyadharan/shopvista-data-modernization-azure/blob/main/project_architecture.png
 
 ## ⭐ Project Highlights
 
